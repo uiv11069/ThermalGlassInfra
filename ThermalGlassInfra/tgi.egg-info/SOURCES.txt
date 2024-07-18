@@ -1,0 +1,12 @@
+README.md
+setup.py
+tgi/__init__.py
+tgi/adb.py
+tgi/config.json
+tgi/jenkins.py
+tgi.egg-info/PKG-INFO
+tgi.egg-info/SOURCES.txt
+tgi.egg-info/dependency_links.txt
+tgi.egg-info/entry_points.txt
+tgi.egg-info/requires.txt
+tgi.egg-info/top_level.txt

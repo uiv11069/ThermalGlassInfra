@@ -1,0 +1,7 @@
+{
+    "jenkins_base_url": "http://192.168.11.147:8080",
+    "artifact_name": "something.txt",
+    "host": "0.0.0.0",
+    "port": 5000
+}
+
